@@ -1,6 +1,10 @@
 # Open Science and Climate Change Theme
 
-How Open Science is being used in climate change research. Editorial theme running on Generation Research. See articles: https://genr.eu/wp/open-science-and-climate-change-a-genr-theme/
+How Open Science is being used in climate change research. Editorial theme running on Generation Research. 
+
+About the theme: https://genr.eu/wp/open-science-and-climate-change-a-genr-theme/
+
+See articles: https://genr.eu/wp/category/climate-change/
 
 ## Sources
 
