@@ -9,3 +9,7 @@ See articles: https://genr.eu/wp/category/climate-change/
 ## Sources
 
 Workshop series Climate Change, Sept 2019, https://www.museumfuernaturkunde.berlin/de/workshopreihe-klimawandel
+
+## Literature
+
+Zotero collection https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/G96ZZJ9N
