@@ -28,5 +28,8 @@ Zentouro - https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg
 
 Levi (save the world) Hildebrand - https://www.youtube.com/user/The100LH/featured
 
+Fully Charged - https://www.youtube.com/user/fullychargedshow
+
+
 
 
