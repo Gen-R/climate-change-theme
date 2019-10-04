@@ -32,4 +32,6 @@ Fully Charged - https://www.youtube.com/user/fullychargedshow
 
 NASA Climate - https://www.youtube.com/user/NASAClimate
 
+Global Weirding with Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
+
 
