@@ -31,14 +31,20 @@ Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/i
  - Our Changing Climate - https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ - it hides the identity of the channel owners and has no references so its just not credible even though it looks interesting.
  - Zentouro - https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg
  - Levi (save the world) Hildebrand - https://www.youtube.com/user/The100LH/featured
- - Fully Charged - https://www.youtube.com/user/fullychargedshow
  - NASA Climate - https://www.youtube.com/user/NASAClimate
 
 ##### Broadcaster channels
 
-- Hot Mess - PBS https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw/featured - popular US explantory channel. Don't think that its Malthusian opener of 8 billion people, 1 planet is a useful political statement.
- - Global Weirding with Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
+1. zentouro. ‘Zentouro’, 13 July 2007. https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg.
+2. standard.tv. ‘Our Changing Climate’. Our Changing Climate, 9 December 2016. https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ.
+3. NASA. ‘NASA Climate Change’. NASA Climate Change, 2 November 2011. https://www.youtube.com/channel/UCP_hZt43bbGGf9ah6ATOvEg.
+4. Hildebrand, Levi. ‘Levi Hildebrand’. Levi Hildebrand, 2 June 2011. https://www.youtube.com/channel/UCLSh2s2hsYnyhgn_al4B2bw.
+
+##### Other
+
+ - Fully Charged - https://www.youtube.com/user/fullychargedshow
  
+
 Test edit for YouTube embed, see: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos
 
 [![Our Food System is Rigged feat. Sheril Kirshenbaum | Hot Mess](http://img.youtube.com/vi/j80mWTQyjjs/0.jpg)](http://www.youtube.com/watch?v=j80mWTQyjjs)
