@@ -8,7 +8,7 @@ If you would like to contribute an article or help with the YouTube channel cata
 
 *Generation Research* is funded by the Leibniz Association within the funding line strategic networks as part of the [Leibniz Research Alliance Open Science](https://www.leibniz-openscience.de/). *GenR* editorial büro is based at the TIB &ndash; German National Library of Science and Technology.
 
-### YouTube &ndash; Climate Science and scientists on the platform
+## YouTube &ndash; Climate Science and scientists on the platform
 
 *GenR* carried an [interview with Joachim Allgaier](https://genr.eu/wp/youtube-fix-your-ai-for-climate-change-an-invitation-to-an-open-dialogue/) looking at the question of how YouTube is being strategically gamed to have anti-science climate denial content shown when users search for climate change subjects. 
 
@@ -24,7 +24,7 @@ NB: It would also be interesting to find ways for channels to identify as being 
  2. Add Crypto ID in channel description
  3. Community maintained catalog: run cataloging sessions
 
-##### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
+### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
 
 Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/E7KCLMMQ) (pasted below) on [GenR's YouTube channel](https://www.youtube.com/playlist?list=PLH_8onvCcWQSEs_ucV-EA4MCyGyQtOgaC). NB: We have to use a video playlist as Google doesn't provide Channels lists.
 
@@ -33,9 +33,9 @@ Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/i
 3. NASA. ‘NASA Climate Change’. NASA Climate Change, 2 November 2011. https://www.youtube.com/channel/UCP_hZt43bbGGf9ah6ATOvEg.
 4. Hildebrand, Levi. ‘Levi Hildebrand’. Levi Hildebrand, 2 June 2011. https://www.youtube.com/channel/UCLSh2s2hsYnyhgn_al4B2bw.
 
-##### Broadcaster channels
+### Broadcaster channels
 
-##### Other
+### Other
 
  - Fully Charged - https://www.youtube.com/user/fullychargedshow
  
@@ -43,3 +43,6 @@ Test edit for YouTube embed, see: https://github.com/adam-p/markdown-here/wiki/M
 
 [![Our Food System is Rigged feat. Sheril Kirshenbaum | Hot Mess](http://img.youtube.com/vi/j80mWTQyjjs/0.jpg)](http://www.youtube.com/watch?v=j80mWTQyjjs)
 
+### Indexes of YouTube Channels
+
+A small selection from YourTube - https://www.youtube.com/feed/guide_builder
