@@ -16,9 +16,9 @@ Joachim advocated that scientists should be posting on YouTube to help push back
 
 The criteria for adding channels (evolving): 1. No broadcaster channels; 2. Preferably made by scientists.
 
-If things go well the ambition would be to build up a bigger collectio.
+If things go well the ambition would be to build up a bigger collection.
 
-NB: It would also be interesting to find ways for channels to identify as being *Science* Climate Change channels and be cataloged and searchavble. Please suggest ideas! So far we have:
+NB: It would also be interesting to find ways for channels to identify as being Climate Change *Science* channels and be cataloged and searchavble. Please suggest ideas! So far we have:
 
  1. Add a tag to channels
  2. Add Crypto ID in channel description
@@ -26,7 +26,7 @@ NB: It would also be interesting to find ways for channels to identify as being 
 
 ##### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
 
-Channels listed on [Zotero]() (pasted below) on [GenR's YouTube channel]().
+Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/E7KCLMMQ) (pasted below) on [GenR's YouTube channel](https://www.youtube.com/playlist?list=PLH_8onvCcWQSEs_ucV-EA4MCyGyQtOgaC). NB: We have to use a video playlist as Google doesn't provide Channels lists.
 
  - Hot Mess - PBS https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw/featured - popular US explantory channel. Don't think that its Malthusian opener of 8 billion people, 1 planet is a useful political statement.
  - Our Changing Climate - https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ - it hides the identity of the channel owners and has no references so its just not credible even though it looks interesting.
