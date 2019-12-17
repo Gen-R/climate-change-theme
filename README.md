@@ -28,14 +28,17 @@ NB: It would also be interesting to find ways for channels to identify as being 
 
 Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/E7KCLMMQ) (pasted below) on [GenR's YouTube channel](https://www.youtube.com/playlist?list=PLH_8onvCcWQSEs_ucV-EA4MCyGyQtOgaC). NB: We have to use a video playlist as Google doesn't provide Channels lists.
 
- - Hot Mess - PBS https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw/featured - popular US explantory channel. Don't think that its Malthusian opener of 8 billion people, 1 planet is a useful political statement.
  - Our Changing Climate - https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ - it hides the identity of the channel owners and has no references so its just not credible even though it looks interesting.
  - Zentouro - https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg
  - Levi (save the world) Hildebrand - https://www.youtube.com/user/The100LH/featured
  - Fully Charged - https://www.youtube.com/user/fullychargedshow
  - NASA Climate - https://www.youtube.com/user/NASAClimate
- - Global Weirding with Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
 
+##### Broadcaster channels
+
+- Hot Mess - PBS https://www.youtube.com/channel/UCsaEBhRsI6tmmz12fkSEYdw/featured - popular US explantory channel. Don't think that its Malthusian opener of 8 billion people, 1 planet is a useful political statement.
+ - Global Weirding with Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
+ 
 Test edit for YouTube embed, see: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos
 
 [![Our Food System is Rigged feat. Sheril Kirshenbaum | Hot Mess](http://img.youtube.com/vi/j80mWTQyjjs/0.jpg)](http://www.youtube.com/watch?v=j80mWTQyjjs)
