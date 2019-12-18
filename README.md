@@ -22,10 +22,9 @@ The preferrences for adding channels (evolving):
 
  1. Preferably made by scientists or the science community
  1. Show a variety of YouTube format styles and production values
- 1. Avoiding lectures or conference formats so that YouTube styles of video can be shown
+ 1. Looking for creative lectures or conference formats so that YouTube styles of video delivery can be shown
  1. Include one or more selections that show off the work of the IPCC
  1. No broadcaster or mainsteam media celebrity channels 
- 1. Preferably made by scientists.
 
 ### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
 
