@@ -25,6 +25,7 @@ The preferrences for adding channels (evolving):
  1. Looking for creative lectures or conference formats so that YouTube styles of video delivery can be shown
  1. Include one or more selections that show off the work of the IPCC
  1. No broadcaster or mainsteam media celebrity channels 
+ 1. To focus on climate change issues and exclude where possible other environmental questions about health, conservation, or polution etc.
 
 ### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
 
