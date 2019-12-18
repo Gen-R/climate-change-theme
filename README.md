@@ -14,7 +14,7 @@ If you would like to contribute an article or help with the YouTube channel cata
 
 Joachim advocated that scientists should be posting on YouTube to help push back against this trend of obscuring climate science. To answer that call *GenR* has been compiling a list of 'Top 10 Climate Change - Science - YouTube Channels'. This is our initial list and we'll keep on updating the list and sending out announcements on a regular basis. The channel list will continue to be updated as the architecture of YouTube prevents a simple catalog of channels being made publically available.
 
-The objective of the 'Top 10' is to look at how the scientific community and individualy can represent climate science research. 
+The objective of the 'Top 10' is to look at how the scientific community and individualy can represent climate change _science_ research. 
 
 The channel catalog is a community effort and will be updated regularly. Get involved!
 
