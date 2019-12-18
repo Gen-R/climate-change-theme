@@ -14,15 +14,18 @@ If you would like to contribute an article or help with the YouTube channel cata
 
 Joachim advocated that scientists should be posting on YouTube to help push back against this trend of obscuring climate science. To answer that call *GenR* has been compiling a list of 'Top 10 Climate Change - Science - YouTube Channels'. This is our initial list and we'll keep on updating the list and sending out announcements on a regular basis. The channel list will continue to be updated as the architecture of YouTube prevents a simple catalog of channels being made publically available.
 
-The criteria for adding channels (evolving): 1. No broadcaster channels; 2. Preferably made by scientists.
+The objective of the 'Top 10' is to look at how the scientific community and individualy can represent climate science research. 
 
-If things go well the ambition would be to build up a bigger collection.
+The channel catalog is a community effort and will be updated regularly. Get involved!
 
-NB: It would also be interesting to find ways for channels to identify as being Climate Change *Science* channels and be cataloged and searchavble. Please suggest ideas! So far we have:
+The preferrences for adding channels (evolving): 
 
- 1. Add a tag to channels
- 2. Add Crypto ID in channel description
- 3. Community maintained catalog: run cataloging sessions
+ 1. Preferably made by scientists or the science community
+ 1. Show a variety of YouTube format styles and production values
+ 1. Avoiding lectures or conference formats so that YouTube styles of video can be shown
+ 1. Include one or more selections that show off the work of the IPCC
+ 1. No broadcaster or mainsteam media celebrity channels 
+ 1. Preferably made by scientists.
 
 ### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
 
@@ -43,7 +46,7 @@ Test edit for YouTube embed, see: https://github.com/adam-p/markdown-here/wiki/M
 
 [![Our Food System is Rigged feat. Sheril Kirshenbaum | Hot Mess](http://img.youtube.com/vi/j80mWTQyjjs/0.jpg)](http://www.youtube.com/watch?v=j80mWTQyjjs)
 
-### Indexes of YouTube Channels
+### Indexes of YouTube Channels?
 
  - A small selection from YourTube - https://www.youtube.com/feed/guide_builder
 
@@ -51,4 +54,12 @@ Test edit for YouTube embed, see: https://github.com/adam-p/markdown-here/wiki/M
 
  - Channel search (its very dumn, but in filters you can select 'channel' https://www.youtube.com/watch?v=jN1PIj3eyeA | But the results are rubbish, actually worse - dissinformation. 
 
+### Development
 
+If things go well the ambition would be to build up a bigger collection.
+
+NB: It would also be interesting to find ways for channels to identify as being Climate Change *Science* channels and be cataloged and searchavble. Please suggest ideas! So far we have:
+
+ 1. Add a tag to channels
+ 2. Add Crypto ID in channel description
+ 3. Community maintained catalog: run cataloging sessions
