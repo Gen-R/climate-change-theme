@@ -45,4 +45,10 @@ Test edit for YouTube embed, see: https://github.com/adam-p/markdown-here/wiki/M
 
 ### Indexes of YouTube Channels
 
-A small selection from YourTube - https://www.youtube.com/feed/guide_builder
+ - A small selection from YourTube - https://www.youtube.com/feed/guide_builder
+
+ - Channel tracker plugin https://gsuite.google.com/marketplace/app/yt_tracker/952783286913?pann=gam
+
+ - Channel search (its very dumn, but in filters you can select 'channel' https://www.youtube.com/watch?v=jN1PIj3eyeA | But the results are rubbish, actually worse - dissinformation. 
+
+
