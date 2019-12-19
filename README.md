@@ -37,7 +37,7 @@ Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/i
 1. Just have a think
 1. zentouro. ‘Zentouro’, 13 July 2007. https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg.
 1. Climate Engineering Conferences
-1. 
+1. Climate Adam
 1. 
 1. 
 1. 
