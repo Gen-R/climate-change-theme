@@ -42,7 +42,6 @@ Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/i
 9. standard.tv. ‘Our Changing Climate’. Our Changing Climate, 9 December 2016. https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ.
 10. zentouro. ‘Zentouro’, 13 July 2007. https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg.
 
-
 ### Broadcaster channels
 
 ### Other
