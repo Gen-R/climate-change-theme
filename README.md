@@ -27,14 +27,20 @@ The preferrences for adding channels (evolving):
  1. No broadcaster or mainsteam media celebrity channels 
  1. To focus on climate change issues and exclude where possible other environmental questions about health, conservation, or polution etc.
 
-### Top 10 Climate Change &mdash; Science &mdash; YouTube Channels (Dec 2019)
+### Channel Hunt: 10 Way to Present Climate Change Science on YouTube
 
 Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/E7KCLMMQ) (pasted below) on [GenR's YouTube channel](https://www.youtube.com/playlist?list=PLH_8onvCcWQSEs_ucV-EA4MCyGyQtOgaC). NB: We have to use a video playlist as Google doesn't provide Channels lists.
 
+1. standard.tv. ‘Our Changing Climate’. Our Changing Climate, 9 December 2016. https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ.
+1. IPCC
+1. NASA Goddard
+1. Just have a think
 1. zentouro. ‘Zentouro’, 13 July 2007. https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg.
-2. standard.tv. ‘Our Changing Climate’. Our Changing Climate, 9 December 2016. https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ.
-3. NASA. ‘NASA Climate Change’. NASA Climate Change, 2 November 2011. https://www.youtube.com/channel/UCP_hZt43bbGGf9ah6ATOvEg.
-4. Hildebrand, Levi. ‘Levi Hildebrand’. Levi Hildebrand, 2 June 2011. https://www.youtube.com/channel/UCLSh2s2hsYnyhgn_al4B2bw.
+1. Climate Engineering Conferences
+1. 
+1. 
+1. 
+1. 
 
 ### Broadcaster channels
 
