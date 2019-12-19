@@ -31,16 +31,17 @@ The preferrences for adding channels (evolving):
 
 Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/E7KCLMMQ) (pasted below) on [GenR's YouTube channel](https://www.youtube.com/playlist?list=PLH_8onvCcWQSEs_ucV-EA4MCyGyQtOgaC). NB: We have to use a video playlist as Google doesn't provide Channels lists.
 
-1. standard.tv. ‘Our Changing Climate’. Our Changing Climate, 9 December 2016. https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ.
-1. IPCC
-1. NASA Goddard
-1. Just have a think
-1. zentouro. ‘Zentouro’, 13 July 2007. https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg.
-1. Climate Engineering Conferences
-1. Climate Adam
-1. 
-1. 
-1. 
+1. Borlace, Dave. ‘Just Have a Think’, 2018. https://www.youtube.com/channel/UCRBwLPbXGsI2cJe9W1zfSjQ/featured.
+2. ‘Climate State’, 2012. https://www.youtube.com/user/ClimateState.
+3. IASS Potdam. ‘Climate Engineering Conferences: Critical Global Discussions’, 2014. https://www.youtube.com/channel/UCg4cyMKncP4HiQPwnjNMotQ.
+4. IPCC. ‘Intergovernmental Panel on Climate Change (IPCC)’, 2011. https://www.youtube.com/user/IPCCGeneva.
+5. Levy, Adam. ‘ClimateAdam’, 2014. https://www.youtube.com/user/ClimateAdam.
+6. MIT. ‘MIT Climate’, 2016. https://www.youtube.com/channel/UCenSARsycBiZwoO5UvwVJ6w/about.
+7. MPIC. ‘Max-Planck-Institut Für Chemie’, 2014. https://www.youtube.com/user/mpichemie.
+8. NASA. ‘NASA Goddard’, 2006. https://www.youtube.com/user/NASAexplorer.
+9. standard.tv. ‘Our Changing Climate’. Our Changing Climate, 9 December 2016. https://www.youtube.com/channel/UCNXvxXpDJXp-mZu3pFMzYHQ.
+10. zentouro. ‘Zentouro’, 13 July 2007. https://www.youtube.com/channel/UCAz17eZxF5tD7vNOEVgegKg.
+
 
 ### Broadcaster channels
 
