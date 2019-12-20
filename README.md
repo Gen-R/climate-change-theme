@@ -27,7 +27,7 @@ The preferrences for adding channels (evolving):
  1. No broadcaster or mainsteam media celebrity channels 
  1. To focus on climate change issues and exclude where possible other environmental questions about health, conservation, or polution etc.
 
-### Channel Hunt: 10 Way to Present Climate Change Science on YouTube
+### Channel Hunt: 10 Ways to Present Climate Change Science on YouTube
 
 Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/items/collectionKey/E7KCLMMQ) (pasted below) on [GenR's YouTube channel](https://www.youtube.com/playlist?list=PLH_8onvCcWQSEs_ucV-EA4MCyGyQtOgaC). NB: We have to use a video playlist as Google doesn't provide Channels lists.
 
