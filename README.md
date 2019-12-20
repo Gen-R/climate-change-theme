@@ -33,7 +33,7 @@ Channels listed on [Zotero](https://www.zotero.org/groups/1838445/generation_r/i
 
 1. Borlace, Dave. ‘Just Have a Think’, 2018. https://www.youtube.com/channel/UCRBwLPbXGsI2cJe9W1zfSjQ/featured.
 2. ‘Climate State’, 2012. https://www.youtube.com/user/ClimateState.
-3. IASS Potdam. ‘Climate Engineering Conferences: Critical Global Discussions’, 2014. https://www.youtube.com/channel/UCg4cyMKncP4HiQPwnjNMotQ.
+3. IASS Potsdam. ‘Climate Engineering Conferences: Critical Global Discussions’, 2014. https://www.youtube.com/channel/UCg4cyMKncP4HiQPwnjNMotQ.
 4. IPCC. ‘Intergovernmental Panel on Climate Change (IPCC)’, 2011. https://www.youtube.com/user/IPCCGeneva.
 5. Levy, Adam. ‘ClimateAdam’, 2014. https://www.youtube.com/user/ClimateAdam.
 6. MIT. ‘MIT Climate’, 2016. https://www.youtube.com/channel/UCenSARsycBiZwoO5UvwVJ6w/about.
